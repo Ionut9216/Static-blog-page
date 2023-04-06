@@ -1,4 +1,4 @@
-# Evano blog posts
+# Envano blog posts
 
 This is a webpage that displays blog posts from Envano. This was made as an exercise to practice HTML&CSS and/or JavaScript and Envano website was used as an reference to do this. 
 
